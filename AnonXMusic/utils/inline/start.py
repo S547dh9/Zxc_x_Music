@@ -33,7 +33,7 @@ def private_panel(_):
             InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHANNEL),
         ],
         [
-            InlineKeyboardButton(text=_["BOTS"], url=https://t.me/FleX_Bots_News/27),
+            InlineKeyboardButton(text=_["BOT"], url=https://t.me/FleX_Bots_News/27),
         ],
     ]
     return buttons
